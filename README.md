@@ -28,19 +28,7 @@ contact messages from a dashboard.
 PHP 8.2+, Laravel 12, Jetstream (Livewire), Bootstrap 4 (site and admin), Tailwind + Vite (auth pages),
 SQLite by default (MySQL supported), PHPUnit.
 
-## Getting started
 
-```bash
-git clone https://github.com/<your-username>/laravel-hotel-booking.git
-cd laravel-hotel-booking
-
-composer setup          # deps, .env, SQLite file, app key, migrations, storage link, asset build
-php artisan db:seed     # admin user + 6 sample rooms
-php artisan serve       # http://localhost:8000
-```
-
-Manual setup: `composer install`, copy `.env.example` to `.env`, `php artisan key:generate`,
-`php artisan migrate --seed`, `php artisan storage:link`, `npm install && npm run build`.
 
 ## Default accounts (local only)
 
