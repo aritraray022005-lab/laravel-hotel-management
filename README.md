@@ -62,10 +62,6 @@ resources/views/admin         admin pages
 routes/web.php                all routes
 ```
 
-## Screenshots
-
-_Add screenshots of the home page, room page and admin dashboard here._
-
 ## Credits
 
 Front-end template by [Free Html Templates](https://html.design/), distributed by
