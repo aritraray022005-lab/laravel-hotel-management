@@ -71,6 +71,3 @@ _Add screenshots of the home page, room page and admin dashboard here._
 Front-end template by [Free Html Templates](https://html.design/), distributed by
 [ThemeWagon](https://themewagon.com/). Admin panel based on Bootstrious "Dark Admin".
 
-## License
-
-Add a license of your choice (for example MIT) before publishing.
